@@ -1,0 +1,76 @@
+.navbar-brand img{
+    width: 50%;
+}
+.warn{
+    background-color: rgb(255, 152, 0)!important;
+}
+.home1{
+    background-color: rgb(0, 150, 136)!important;
+    height: 350px!important;
+}
+.button{
+    background-color: rgb(244, 69, 56)!important;
+    border: none!important;
+}
+.flex img{
+    width: 15%;
+}
+.deux{
+    transform: translateX(-35px)!important;
+}
+.soie{
+    background-color: rgb(0, 150, 136)!important;
+    border-radius: 20px;
+}
+.red img,.green img,.yellow img,.green img{
+     width: 30%;
+}
+.diplom,.activite{
+    background-color: #F44336;
+}
+.flex1 img{
+    width: 5%;
+    height: 40px;
+}
+.carous{
+    width: 20%!important;
+}
+.point{
+    width: 10%;
+}
+.im1{
+    width: 15%!important;
+}
+.im2,.im3{
+    width: 14%!important;
+}
+.im4{
+    width: 20%!important;
+}
+.im6{
+    width: 16%;
+}
+.im5{
+    width: 17%;
+}
+.light{
+    background-color: rgb(240, 249, 248);
+}
+.footer{
+    background-color: rgb(0, 150, 136);
+}
+.iconee img{
+    width: 10%;
+}
+.pti{
+    width: 5%!important;
+}
+/* responsivite */
+@media screen and (max-width: 600px) {
+   .home1 p{
+    font-size: 18px!important;
+   }
+   .red img,.green img,.yellow img,.green img{
+    width: 50%;
+   }
+  }
